@@ -1,3 +1,6 @@
+# Main README
+to be updated
+
 # Obstacle Detection and Avoidance
 [![Release Status](https://img.shields.io/github/v/release/PX4/avoidance)](https://github.com/PX4/avoidance/releases)
 [![Build and Unit Test](https://github.com/PX4/PX4-Avoidance/workflows/Build%20and%20Unit%20Test/badge.svg)](https://github.com/PX4/PX4-Avoidance/actions)
